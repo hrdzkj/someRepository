@@ -7,7 +7,7 @@ https://github.com/firebase
 https://github.com/googlecreativelab  
 https://github.com/GoogleCloudPlatform  
 https://github.com/flutter  
-https://github.com/google/agera (对比rxjava)  
+https://github.com/google/agera   
 https://github.com/fuchsia-mirror   
 
 https://github.com/raspberrypi   
