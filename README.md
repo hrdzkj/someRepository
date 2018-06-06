@@ -1,5 +1,5 @@
 # someRepository
-一些组织的github
+一些组织的github  
 https://github.com/google     
 https://github.com/googlesamples      
 https://github.com/androidthings   
